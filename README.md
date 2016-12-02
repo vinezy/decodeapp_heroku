@@ -18,27 +18,17 @@
   <img class="img-thumbnail"  src="https://github.com/clydeinwebdev/digitalSignage/blob/master/clone.png" alt="fork">
  </li>
  <li>Use git bash and follow these commands
- 
- ```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
- 
- 
- ```sh
- $ cd /d
- $ git clone https://github.com/<span style="color:red;">yourgithubname</span>/decodeapp_heroku.git decodeapp-heroku<span style="color:red;">lastname</span>
- $ cd decodeapp-heroku<span style="color:red;">lastname</span>
- $ npm install
+  <pre class="language-javascript">$ cd /d
+$ git clone https://github.com/<span style="color:red;">yourgithubname</span>/decodeapp_heroku.git decodeapp-heroku<span style="color:red;">lastname</span>
+$ cd decodeapp-heroku<span style="color:red;">lastname</span>
+$ npm install
 
- Note: Wait and this could take some time and this depends on the internet connection speed.
+Note: Wait and this could take some time and this depends on the internet connection speed.
 
- $ node server
+$ node server
 
- Note: Go to your browser and type 'http://localhost:4000'
-```	
-
+Note: Go to your browser and type 'http://localhost:4000'
+</pre>	
 	</li>	
 	<li>Verify if you have this page
 	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/landingpage.png" alt="fork">
