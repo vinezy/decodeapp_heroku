@@ -51,7 +51,7 @@ class Component extends App{
 		let html = `
 			 <nav>
 			    <div class="nav-wrapper blue darken-4">
-			      <a href="#" class="brand-logo yellow-text ">UKAY</a>
+			      <a href="#" class="brand-logo yellow-text ">UKAY v1.0</a>
 			      <ul id="nav-mobile" class="right hide-on-med-and-down">
 			        <li><a href="#">Items</a></li>
 			        <li><a href="#">Cart</a></li>
