@@ -137,3 +137,24 @@ To https://git.heroku.com/decodeapp-heroku.git
 
 	<li>You may now go to https://decodeapp-heroku<span style="color:red;">lastname</span>.herokuapp.com/ to visit your live page</li>
 </ol>
+
+
+<h4>Part 4: Automatic Deploy</h4>
+<ol>
+	<li>Navigate to https://dashboard.heroku.com/apps then select <u><i>decodeapp-heroku<span style="color:red;">lastname</span> app </i></u></li>
+	<li>Add Github to Heroku's pipeline
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/addpipeline.png" alt="fork">
+	</li>	
+	<li>Connect to Github
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/connectrepo.png" alt="fork">
+	</li>	
+	<li>Auto Deploy
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/autodeploy.png" alt="fork">
+	</li>	
+	<li>Auto Deploy Branch
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/autodeploybranch.png" alt="fork">
+	</li>	
+	<li>Verify
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/autodeployresult.png" alt="fork">
+	</li>
+</ol>
