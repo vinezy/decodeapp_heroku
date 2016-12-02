@@ -33,7 +33,7 @@ Note: Go to your browser and type 'http://localhost:4000'
 
 	</li>	
 	<li>Verify if you have this page
-	<br/><img class="img-thumbnail" src="files/landingpage.png" alt="fork">
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/landing.png" alt="fork">
 		<h5>This time change the following:</h5>
 		<ul>
 			<li>Page Title (change it to your <span style="color:red;">lastname</span>)</li>
