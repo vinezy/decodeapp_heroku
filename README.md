@@ -41,3 +41,28 @@ Note: Go to your browser and type 'http://localhost:4000'
 		</ul>
 	</li>
 </ol>
+
+<h4>Part 2: Github Push</h4>
+<ol>
+	<li>Use git bash and follow these commands
+<pre class="language-javascript">$ git status
+$ git add .
+$ git config user.email "<span style="color:red">youremailaddress@gmail.com</span>"
+$ git config user.name "<span style="color:red">yourgithubname</span>"
+$ git commit -m "<span style="color:red">your commit message here</span>"
+$ git push
+
+Note: 
+
+> Wait and this could take some time and this depends on the internet connection speed. 
+
+> Remember to consider hosting/placing your files such like images and videos to
+other web sites and just get the url of the file so that you will not have a 
+loaded remote repo at github.
+
+</pre>		
+
+	</li>
+	<li>If all files has been <span style="color:green">uploaded successfully</span>, then go to your github heroku repository and refresh the page. This time you must have successfully uploaded/push the files from your LOCAL 
+repo to your REMOTE repo.</li>
+</ol>
