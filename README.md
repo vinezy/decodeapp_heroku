@@ -19,6 +19,17 @@
  </li>
  <li>Use git bash and follow these commands
  
+ 
+ 
+ ```sh
+$ cd dillinger
+$ npm install -d
+$ node app
+```
+ 
+ 
+ 
+ 
  ```sh
  $ cd /d
  $ git clone https://github.com/<span style="color:red;">yourgithubname</span>/decodeapp_heroku.git decodeapp-heroku<span style="color:red;">lastname</span>
