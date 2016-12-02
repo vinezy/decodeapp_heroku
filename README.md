@@ -19,15 +19,11 @@
  </li>
  <li>Use git bash and follow these commands
  
- 
- 
- ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+ ```javascript
+$(function(){
+  $('div').html('I am a div.');
+});
 ```
- 
- 
  
  
  ```sh
