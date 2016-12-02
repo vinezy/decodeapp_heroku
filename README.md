@@ -158,3 +158,26 @@ To https://git.heroku.com/decodeapp-heroku.git
 	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/autodeployresult.png" alt="fork">
 	</li>
 </ol>
+
+<h4>Part 5: Apply Changes</h4>
+<ol>
+	<li>Apply any changes to your files</li>
+	<li>Then follow these commands
+<pre class="language-javascript">$ git add .
+$ git commit -m "<span style="color:red">your commit message here</span>"
+$ git push
+
+Note: 
+
+> Wait and this could take some time and this depends on the internet connection speed. 
+
+> Remember to consider hosting/placing your files such like images and videos to
+other web sites and just get the url of the file so that you will not have a 
+loaded remote repo at github.
+</pre>	
+
+	</li>
+	<li>Verify your LIVE app link hosted by heroku if changes has been applied.</li>
+</ol>
+
+##Done. Congratulations!!! :octocat:
