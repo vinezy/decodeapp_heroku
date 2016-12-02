@@ -1,9 +1,8 @@
 <h1>WEB DEVELOPMENT</h1>
 <h3>WEBDEV Tools</h3>
 <ul>
-<li>Text Editor: <a href="files/Sublime.zip">Sublime</a></li>
-<li>Terminal: <a href="files/PortableGit.rar">GitBash</a></li>
-<li>Heroku Toolbelt: <a href="files/heroku-toolbelt.exe">Heroku</a></li>
+<li>Text Editor: <a href="https://www.sublimetext.com/3">Sublime</a></li>
+<li>Terminal: <a href="https://git-scm.com/downloads">GitBash</a></li>
 </ul>
 
 <h3>Activity</h3>
@@ -33,7 +32,7 @@ Note: Go to your browser and type 'http://localhost:4000'
 
 	</li>	
 	<li>Verify if you have this page
-	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/landing.png" alt="fork">
+	<br/><img class="img-thumbnail" src="https://github.com/clydeinwebdev/digitalSignage/blob/master/landingpage.png" alt="fork">
 		<h5>This time change the following:</h5>
 		<ul>
 			<li>Page Title (change it to your <span style="color:red;">lastname</span>)</li>
