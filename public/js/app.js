@@ -1,3 +1,4 @@
+/*
 "use strict";
 
 
@@ -101,11 +102,11 @@ class Component extends App{
 
 let component = new Component();
 component.ukayLayout();
+*/
 
 
 
 
-/*
 "use strict";
 
 class App{
@@ -893,7 +894,7 @@ class Component extends App{
 
 let component = new Component();
 component.recipeLayout();
-*/
+
 
 //////////////////////////////////////
 
