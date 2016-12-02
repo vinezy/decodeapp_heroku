@@ -44,8 +44,9 @@ Note: Go to your browser and type 'http://localhost:4000'
 
 <h4>Part 2: Github Push</h4>
 <ol>
-	<li>Use git bash and follow these commands
-<pre class="language-javascript">$ git status
+	<li>Open another instance of git bash (Alt + F2) then change directory to the previous path
+<pre class="language-javascript">$ cd /d/decodeapp-heroku<span style="color:red;">lastname</span>
+$ git status
 $ git add .
 $ git config user.email "<span style="color:red">youremailaddress@gmail.com</span>"
 $ git config user.name "<span style="color:red">yourgithubname</span>"
@@ -71,8 +72,10 @@ repo to your REMOTE repo.</li>
 <ol>
 	<li>Download and Install Heroku Toolbelt (<a href="https://devcenter.heroku.com/articles/heroku-command-line#download-and-install">link here</a>)</li>
 
-	<li>This time if you are using windows operating system, use command prompt to setup heroku
-<pre class="language-javascript">$ heroku
+	<li>This time if you are using windows operating system, use command prompt (Start Menu -> Type "cmd") to setup heroku
+<pre class="language-javascript">$ cd d:/decodeapp-heroku<span style="color:red;">lastname</span>
+$ d:
+$ heroku
 
 Enter your Heroku credentials.
 Email: <span style="color:red">youremailaddress@gmail.com</span>
