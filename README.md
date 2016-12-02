@@ -184,3 +184,13 @@ loaded remote repo at github.
 </ol>
 
 ##Done. Congratulations!!! :octocat:
+
+###Hurray!! to the following students 🏆
+
+* (Quisay)[http://decodeapp-herokuquisaysa.herokuapp.com/]
+* (Suarez)[http://decodeapp-herokusuarez.herokuapp.com/]
+* (Prajes)[http://decodeapp-herokuprajes.herokuapp.com/]
+* (Europa)[http://decodeapp-herokueuropa.herokuapp.com/]
+* (Nicolas)[http://decodeapp-herokunicolas1.herokuapp.com/]
+* (Hanoyan)[http://decodeapp-herokuhanoyan.herokuapp.com/]
+
