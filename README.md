@@ -1,15 +1,12 @@
 <h1>WEB DEVELOPMENT</h1>
-<hr/>
 <h3>WEBDEV Tools</h3>
 <ul>
 <li>Text Editor: <a href="files/Sublime.zip">Sublime</a></li>
 <li>Terminal: <a href="files/PortableGit.rar">GitBash</a></li>
 <li>Heroku Toolbelt: <a href="files/heroku-toolbelt.exe">Heroku</a></li>
 </ul>
-<hr/>
 
 <h3>Activity</h3>
-<br/>
 <h4>Part 1: Github Setup</h4>
 <ol>
 	<li>Download all WEBDEV tools</li>	
