@@ -1,0 +1,24 @@
+
+var _mxmMetadata = {};
+_mxmMetadata["artist"]="One Direction";
+_mxmMetadata["track"]="Night Changes";
+_mxmMetadata["api_application_id"]=1409608050492;
+_mxmMetadata["track_id"]=74349502;
+
+var _mxmPixel = document.createElement("img");
+_mxmPixel.border='0';_mxmPixel.width='0';_mxmPixel.heigth='0';	_mxmPixel.alt='';var myrand=Math.floor(Math.random()*99999999999);_mxmPixel.src='http://tracking.musixmatch.com/p1.0/N7q3UkAP-7LR7QjoawiD548elMX5FC8wctLtENgD3byKc1wZ--XdUJKs81DAy2vpyLN76YTn1I3FJdiNZAMQBNXM_KnqwHwgvIdcFtLUP6ZrJVKdsq9bHIF03CMdcUquQSP0Ukn00vO-5PQoZEyjgJDuMDjEDVKgbBLmHz2-W6-JH36dpzKXDIL4-3dSoxmN2tgp026aQ5IyRrnFyNlMU553IsrDLISR-jQPxyW18mUpNE9wHz5EIDIEFh1YEDTS8C6LZ3UUcjN6KDLLaPAcZivaga0Vf_t_9PL7qx3i1e6xi0MFs9utbFIOi3tA60gzQd0uYWHGkXtUu3PkN1kel4qNonRhuQ_QlpAngDWwsBby1fWJwNqSDfCNzOqNNuuU4ws_-UyzdAE0ZehTtQ7S48AtG7A-43rLrrWLRsqnxcc/?rnd='+myrand;document.getElementsByTagName('head')[0].appendChild(_mxmPixel);
+
+
+                var _gaq = _gaq || [];
+				//LEGACY MODE 
+
+					_gaq.push(['_setCustomVar',1,'Artist',"One Direction"]);
+					_gaq.push(['_setCustomVar',1,'Track',"Night Changes"]);
+					_gaq.push(['_setCustomVar',1,'TrackingMode','active']);
+		            _gaq.push(['_setAccount', 'UA-27006971-1'],['_trackPageview', '/'+ _mxmMetadata['api_application_id'] +'/lyricsview/' + _mxmMetadata['artist'] + '_' + '/' + _mxmMetadata['track'] + '_'+ _mxmMetadata['track_id']]);
+		
+		            (function() {
+		             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		             })();	

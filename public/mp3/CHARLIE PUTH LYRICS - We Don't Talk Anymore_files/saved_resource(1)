@@ -1,0 +1,24 @@
+
+var _mxmMetadata = {};
+_mxmMetadata["artist"]="Charlie Puth feat. Selena Gomez";
+_mxmMetadata["track"]="We Don't Talk Anymore";
+_mxmMetadata["api_application_id"]=1409608050492;
+_mxmMetadata["track_id"]=115330094;
+
+var _mxmPixel = document.createElement("img");
+_mxmPixel.border='0';_mxmPixel.width='0';_mxmPixel.heigth='0';	_mxmPixel.alt='';var myrand=Math.floor(Math.random()*99999999999);_mxmPixel.src='http://tracking.musixmatch.com/p1.0/KDbNqOM5kYfNBTSeKpOOAz8sQFAWlixyJpBxojcey9i8ZExg7UP3BBuUthGq-DGq6DJZ-ZPm5xXflyEFnI6R0nORSbpTS2JnOeryfADKJNlqF9dZ8iRs1Cnftgenf3YaGn00wP_EoH6X18FyBeJQP2MJreNA70YbZkNeDXjY5wf_mF3DyHvQmmQA-dHIoHPJ9up4MFU536ptAc0HqzI6UrT05czqHR77IZ5NDNT4f32lceTcNnHrxr-XZjLhsVvDSb8fzb5vB6d-iPc-d06U6bs3wGxZTFmshcHSTxfGxY-h-BPZlvYF0uRXZFS5YTTfRocb9IVPFvkjcI7Bh_GblR1VBpTYXte4pzyJ6tbYlmVO64ZezffdRhBVYQfxskDHRaZyCb8uPRi3IGKUt77cxZubBqKxl7_gVSHtOIt89KDWpLsSYEEafkyov2PUZQNXk58avCewo5IPxF7fHk3f_A/?rnd='+myrand;document.getElementsByTagName('head')[0].appendChild(_mxmPixel);
+
+
+                var _gaq = _gaq || [];
+				//LEGACY MODE 
+
+					_gaq.push(['_setCustomVar',1,'Artist',"Charlie Puth feat. Selena Gomez"]);
+					_gaq.push(['_setCustomVar',1,'Track',"We Don't Talk Anymore"]);
+					_gaq.push(['_setCustomVar',1,'TrackingMode','active']);
+		            _gaq.push(['_setAccount', 'UA-27006971-1'],['_trackPageview', '/'+ _mxmMetadata['api_application_id'] +'/lyricsview/' + _mxmMetadata['artist'] + '_' + '/' + _mxmMetadata['track'] + '_'+ _mxmMetadata['track_id']]);
+		
+		            (function() {
+		             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		             })();	
