@@ -313,7 +313,7 @@ class Component extends App{
     let r = this.MusicSearchName(MusicId);
 
     let html = `
-
+    <h5 class="center-align">${r.mneym}</h5>
     <div class="row">       
     <div class="col s12 m12">
     <div class="card horizontal small">
@@ -322,7 +322,6 @@ class Component extends App{
     </div>
     <div class="card-stacked">
     <div class="card-content">
-    <h5 class="center-align">${r.mneym}</h5>
     <p>${r.Mntl}</p>
     <p>${r.msyr}</p>
     <p>${r.Mdesc}</p>
